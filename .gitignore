@@ -1,0 +1,8 @@
+/bin/
+#eclipse stuffs
+/.classpath
+/.project
+/.settings/
+/eclipse/
+#custom
+*.tmp
